@@ -7,3 +7,15 @@
     font-family: 'Times New Roman';
     font-weight: 300;
 }
+.head{text-align: center;}
+.c1{
+    float: left;
+    width: 30%;
+    padding: 5px;
+    
+}
+.course::after{
+    content: "";
+    clear: both;
+    display:table;
+}
