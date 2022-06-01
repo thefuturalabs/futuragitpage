@@ -11,11 +11,8 @@
 .c1{
     float: left;
     width: 30%;
-    padding: 5px;
-    
+    padding: 5px;  
 }
-.course::after{
-    content: "";
-    clear: both;
-    display:table;
+.course{
+   text-align: center;
 }
